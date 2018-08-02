@@ -1,0 +1,24 @@
+logo:
+  text: Docs
+  type: link
+  path: index.html
+
+main:
+- text: General
+  type: label
+- text: Cooling
+  type: link
+  path: general/cooling/index.html
+  children:
+  - text: Double air-conditioning
+    type: link
+    path: general/cooling/index.html
+- text: Products
+  type: label
+- text: Frigo
+  type: link
+  path: products/frigo/index.html
+  children:
+  - text: Installation
+    type: link
+    path: products/frigo/installation.html

@@ -1,0 +1,21 @@
+{
+  "name": "riversync-doc",
+  "version": "0.1.0",
+  "hexo": {
+    "version": "3.7.1"
+  },
+  "dependencies": {
+    "dress-code": "^2.4.0",
+    "hexo": "^3.3.8",
+    "hexo-browsersync": "^0.3.0",
+    "hexo-cli": "^1.0.3",
+    "hexo-generator-seo-friendly-sitemap": "0.0.21",
+    "hexo-pdf": "^1.1.1",
+    "hexo-renderer-ejs": "^0.2.0",
+    "hexo-renderer-less": "^0.2.0",
+    "hexo-renderer-marked": "^0.2.11",
+    "hexo-renderer-sass": "^0.3.2",
+    "hexo-server": "^0.2.1",
+    "hexo-theme-doc": "^1.0.0-rc"
+  }
+}
