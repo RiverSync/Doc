@@ -30,3 +30,6 @@ ignore:
 node_sass:
   includePaths:
    - node_modules
+
+sitemap:
+    path: sitemap.xml
