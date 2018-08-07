@@ -32,4 +32,4 @@ node_sass:
    - node_modules
 
 sitemap:
-    path: sitemap.xml
+  path: sitemap.xml
