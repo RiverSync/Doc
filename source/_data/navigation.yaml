@@ -13,6 +13,9 @@ main:
   - text: Double air-conditioning
     type: link
     path: general/cooling/index.html
+- text: Power
+  type:link
+  path: geleral/power/index.html
 - text: Products
   type: label
 - text: Frigo
