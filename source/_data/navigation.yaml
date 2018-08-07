@@ -15,7 +15,11 @@ main:
     path: general/cooling/index.html
 - text: Power
   type:link
-  path: geleral/power/index.html
+  path: general/power/index.html
+  children:
+  - text: Consumption
+    type: link
+    path: general/power/consumption.html
 - text: Products
   type: label
 - text: Frigo
