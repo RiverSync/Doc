@@ -12,9 +12,12 @@ main:
   children:
   - text: Double air-conditioning
     type: link
-    path: general/cooling/index.html
+    path: general/cooling/double.html
+  - text: Clearance
+    type: link
+    path: general/cooling/clearance.html
 - text: Power
-  type:link
+  type: link
   path: general/power/index.html
   children:
   - text: Consumption
