@@ -8,9 +8,5 @@ install:
 script:
 - hexo generate --deploy
 after_success:
- -  firebase deploy  - project riversync-doc - token $FIREBASE_TOKEN
-deploy:
-  provider: firebase
-  token:
-    secure: UfzNnXhf/qRhPeOalM2zMwlblmGCNfQb2sqBpbGtiMgcFvo9FHE4PXD63wei/HeI2TguyCeCDjpppb4z3U4gVqHU3a4vdRSarbsrwpifn5lzCrTVgliJYMZvBqs61AyyG4Lkx/n4uxeqqJXJ1mgzYgYsFqeSYxAkpjefv9eNBK+WMGaW0up7RcM2wm+8uOtSdUbh4jReoOXevIlRUMHdJpOL3Ot2updSixIZFOZglF++zJlJN4wWO5Wqyv33C24fzoKY+z68Q5T5svyo6UjBu2r30/da+dqZO8lj7Ij+BF9Yt99S/ckfYXHwngXgBKIBPTnFVXIsbLuNHr91npBZqYcrCPc9lMgL7GA0hr0nXerHbLGKx16DgNb94Z7zwxXzohYXPmehPpstyiFSFhB3s6GTmARonqe5whuTuwb7HY7Se3p9Kr825p72FpGNXCUEVDpPvNiHtc3l7ZyKS3AHWsaa/HuU5FFvsRFofh1m9A1Hfja5yH3Zw0PivBokqnNqRV8iCk8cETTkQVL8ZWy2cDycDoZqYCipy5r3I0yQJe6PVi9tNF5859k+K8bXrWVEz9HAG1j/JGPk7/KMmiBRLdpdeJu65ZpKUxSDut8EiwbG8ybbm0Ek5KlNkic9Gt9dc8U9CJl4CAuYj2kiGvXvf+Jy6ebLJF3O0AfS9icjpDo=
-  project: riversync-doc
+ -  firebase deploy  -- project riversync-doc -- token $FIREBASE_TOKEN
+
