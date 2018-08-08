@@ -7,9 +7,12 @@ branches:
   - stable
 install:
 - npm install -g hexo
+- npm install -g firebase-tools
 - npm install
 script:
 - hexo generate --deploy
+after_success:
+ -  firebase deploy  - project riversync-doc - token $FIREBASE_TOKEN
 deploy:
   provider: firebase
   token:
