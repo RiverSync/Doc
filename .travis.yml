@@ -7,6 +7,5 @@ install:
 - npm install
 script:
 - hexo generate --deploy
-after_success:
- -  firebase deploy  -- project riversync-doc -- token $FIREBASE_TOKEN
+ - firebase deploy  -- token $FIREBASE_TOKEN
 
