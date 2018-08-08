@@ -6,6 +6,7 @@
   },
   "dependencies": {
     "dress-code": "^2.4.0",
+    "ejs": "^2.6.1",
     "hexo": "^3.3.8",
     "hexo-browsersync": "^0.3.0",
     "hexo-cli": "^1.0.3",
