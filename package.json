@@ -22,6 +22,9 @@
     "hexo-renderer-marked": "^0.3.2",
     "hexo-renderer-sass": "^0.3.2",
     "hexo-server": "^0.3.2",
+    "hexo-breadcrumb": "^1.0.2",
     "hexo-theme-doc": "^1.0.0-rc.1"
+  },
+  "devDependencies": {
   }
 }
