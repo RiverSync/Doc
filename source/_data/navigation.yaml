@@ -1,18 +1,18 @@
 logo:
   text: Docs
   type: link
-  path: index.html
+  path: /
 
 main:
 - text: General
   type: label
-  path: general/index.md
+  path: general/
 - text: Micro Data Center
   type: link
   path: general/mdc.html
 - text: Cooling
   type: link
-  path: general/cooling/index.html
+  path: general/cooling/
   children:
   - text: Clearance
     type: link
@@ -22,7 +22,7 @@ main:
     path: general/cooling/double.html
 - text: Power
   type: link
-  path: general/power/index.html
+  path: general/power/
   children:
   - text: Consumption
     type: link
@@ -30,21 +30,27 @@ main:
   - text: Safety
     type: link
     path: general/power/safety.html
+- text: Security
+  type: link
+  path: general/security/
+- text: Monitoring
+  type: link
+  path: general/monitoring/
 - text: Products
   type: label
 - text: Frigo
   type: link
-  path: products/frigo/index.html
+  path: products/frigo/
   children:
   - text: Installation
     type: link
     path: products/frigo/installation.html
 - text: Services
   type: label
-  path: services/index.html
+  path: services/
 - text: Maintenance
   type: link
-  path: services/maintenance/index.html
+  path: services/maintenance/
   children:
   - text: Basic
     type: link
@@ -55,3 +61,9 @@ main:
   - text: Comprehensive
     type: link
     path: services/maintenance/comprehensive.html        
+- text: Training
+  type: link
+  path: services/training/
+- text: Certification
+  type: link
+  path: services/certification/
