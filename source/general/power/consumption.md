@@ -1,5 +1,5 @@
 title: Power Consumption
 ---
 
-# Power Consumption
+# Consumption
 
