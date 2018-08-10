@@ -12,7 +12,7 @@ main:
   path: general/mdc.html
 - text: Cooling
   type: link
-  path: general/cooling/
+  path: general/cooling/index.md
   children:
   - text: Clearance
     type: link

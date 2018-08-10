@@ -1,4 +1,4 @@
 title: Cooling
 ---
 
-# Cooling Introduction
+# Cooling
