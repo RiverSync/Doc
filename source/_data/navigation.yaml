@@ -39,3 +39,19 @@ main:
   - text: Installation
     type: link
     path: products/frigo/installation.html
+- text: Services
+  type: label
+  path: services/index.html
+- text: Maintenance
+  type: link
+  path: services/maintenance/index.html
+  children:
+  - text: Basic
+    type: link
+    path: services/maintenance/basic.html
+  - text: Enhanced
+    type: link
+    path: services/maintenance/enhanced.html
+  - text: Comprehensive
+    type: link
+    path: services/maintenance/comprehensive.html        
