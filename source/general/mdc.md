@@ -11,11 +11,19 @@ Micro data center are sprouting up on the edges of networks, whether in the fact
 
 We cannot say that micro data center as a product category will fit all needs of today IT infrastructure, but we believe that is has huge update potential, not because it creates something completely new but because it will help address challenges and it will meet demand for highly distributed capacity.
 
-The cloud might be trend that enterprise are moving forward toward as it simplify IT requirements to meet at demand, but the desire for localized computing power is increase as companies advance their digital initiatives. Enterprises are fighting bandwidth constraints and trying to shave milliseconds of response times for latency-sensitive applications aka IoT deployments. For industrial environments, companies need local data storage and processing capabilities to make the most of data-centric smart systems. Also, telcos and content distributors are looking to deploy and managed edge-computing solutions more efficiently in response to demand for digital services.
+The cloud might be trend that enterprise are moving forward toward as it simplify IT requirements to meet at demand, but the desire for localized computing power is increase as companies advance their digital initiatives. Enterprises are fighting bandwidth constraints and trying to shave milliseconds of response times for latency applications aka IoT deployments. For industrial environments, companies need local data storage and processing capabilities to make the most of data-centric smart systems. Also, telcos and content distributors are looking to deploy and managed edge-computing solutions more efficiently in response to demand for digital services.
 
 ## What is a micro data center?
 
 A micro data center is essentially, an IT facility excapsulated in its own protective shell. Climate controls, power distribution and network connectivity are built into a profabricated unit, along with other features such as physical security, fire suppression, shock adsorption, and protection from electromagnetic interference. this is a response to a problem of deploying small pockets of IT capacity.
+
+Compact, hardened technical facilites are abundant in the telco industry, and server rooms abound in the branch office landscape. But micro data centers differ from traditional IT outposts. On a product level, these are much more hightly engineered and integrated than the typical IT closet or server room.
+
+Performance is part of the appeal. As companies consider the infrastructure requirements of a decentralized approach to IT, they are finding their existing distributed capacity in many cases needs to be decommissioned or upgraded. Most existing sites are not nearly adequate and suited for digital services. They don't have the robustness, resilience, protection.
+
+Another distinction of micro data centers is the ease of deployment. Testing and integration of micro data center components is done by the vendor and its channel partners, which speeds the deployment timeline. Because the units are prefabricated and self-contained, there is less site work that must be done. That is particularly appealing for the financial services industry. Banks, for example, appreciate the control and predictability of micro data centers. They love the fact that these things can be tested and stacked and locked down in a factory environment and then shipped with armed guards to a site and deployed. That is so much simpler a project a project than supervising on-site contractors working for weeks, building or creating a room or a network closed.
+
+The decision to deploy micro data centers will be deliberate, another characteristic that distinguishes micro data center from typical IT closet and server room builds. With micro data center deployment, we think is going to be less accidental or tactical. It will be more strategic and well planned as part of a bigger achitecture.
 
 ## Where does micro data center come in?
 
