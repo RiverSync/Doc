@@ -1,4 +1,4 @@
-title: Safety
+title: Power Safety
 ---
 
-# Safety
+# Power Safety
