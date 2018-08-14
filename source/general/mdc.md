@@ -1,4 +1,5 @@
 title: Micro Data Center
+updated: 2018/8/14 17:00
 ---
 
 # Micro Data Center
@@ -27,7 +28,7 @@ The decision to deploy micro data centers will be deliberate, another characteri
 
 ## Where does micro data center come in?
 
-Which is the key for optimizing the performance and usefulness of mobile and other networked devices. The idea of a micro data center is to take a standard rack-mount envirment and add capabilities that a standard rack or a converaged system would struggle to provide, creating a self-contained platform where a containerized solution would be too large or expensive for what is needed.
+Which is the key for optimizing the performance and usefulness of mobile and other networked devices. The idea of a micro data center is to take a standard rack-mount environment and add capabilities that a standard rack or a converaged system would struggle to provide, creating a self-contained platform where a containerized solution would be too large or expensive for what is needed.
 
 Each system provides a secure enclosure that is self-contained with heat management and insulation, with low-cost energy management. Many have optional extras, such as power supply backup and defence against external fire threats, and fully monitored events, such as any attempt to vandalize the system or to move it from its installed position.
 
@@ -37,6 +38,13 @@ A micro data center can also be a good solution for organization that deal with 
 
 Correctly configured micro data center can suit the needs of SMEs that do not have established data center infrastructures.
 
-## Bridge the gap
 
 ## Gain flexibility
+
+A Company without a physical data center could use a self-contained micro data center to gain the flexibility of having multiple servers, along with required storage and networking, in a single unit that can be positioned pretty much anywhere in its building. Even where and organization is looking at using co-location facility, the extra security and disaster-proofing that a micro data center can offer might be worth looking into.
+
+In a world where it is getting increasingly difficult to pick the right mix of physical and virtual platforms for your business needs, micro data center may be seen a just another tool in the box. However, they make sense for specific types of workload and for specific types of environment.
+
+Micro data center may not come into play too much for large enterprise overhauling their big facilities, but they are more suitable for SMEs without data center, or for a big enterprise's remote branch that is located in a developing, netual disaster prone area.
+
+The age of build your own, based on racks with self-assembled computer, storage and network components, is well on the way out. Prefrabicated data centers, along with the use of external cloud based systems, is the future. The key is to ensure that data center professionals choose the right mix.
