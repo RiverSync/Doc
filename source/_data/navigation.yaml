@@ -19,9 +19,13 @@ main:
 - text: Security
   type: link
   path: general/security/index.html
+- text: Prefabricated
+  type: link
+  path: general/prefabricated/index.html
 - text: Monitoring
   type: link
   path: general/monitoring/index.html
+
 - text: Products
   type: label
 - text: Frigo
