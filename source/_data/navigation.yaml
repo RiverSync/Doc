@@ -13,26 +13,9 @@ main:
 - text: Cooling
   type: link
   path: general/cooling/index.html
-  children:
-  - text: Clearance
-    type: link
-    path: general/cooling/clearance.html    
-  - text: Double air-conditioning
-    type: link
-    path: general/cooling/double.html
-  - text: Airflow
-    type: link
-    path: general/cooling/airflow.html
 - text: Power
   type: link
   path: general/power/index.html
-  children:
-  - text: Consumption
-    type: link
-    path: general/power/consumption.html
-  - text: Safety
-    type: link
-    path: general/power/safety.html
 - text: Security
   type: link
   path: general/security/index.html
@@ -44,10 +27,6 @@ main:
 - text: Frigo
   type: link
   path: products/frigo/index.html
-  children:
-  - text: Installation
-    type: link
-    path: products/frigo/installation.html
 - text: Services
   type: label
   path: services/index.html

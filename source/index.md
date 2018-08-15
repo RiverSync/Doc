@@ -11,7 +11,7 @@ This our documentation database to help you explain our product and service work
 - [Micro Data Center](general/mdc.html)
 - [Cooling](general/cooling/index.html)
 - [Power](general/power/index.html)
-- [Secutiry](general/security/index.html)
+- [Security](general/security/index.html)
 - [Monitoring](general/monitoring/index.html)
 
 ## [Products](products/index.html)
