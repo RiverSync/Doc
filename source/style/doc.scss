@@ -1,8 +1,26 @@
 $doc-navbar-logo-text-color: rgb(110, 110, 110);
+$doc-color-primary: #4770e0;
 
 @import "hexo-theme-doc/_doc.scss";
 
 .doc-navbar__logo__img{
     width: 148px;
     height: 30px;
+}
+
+@media print {
+    body{ 
+        background: #fff;
+    }
+    .doc-sidebar{        
+        visibility: hidden;
+        width: 0;
+    }
+    .doc-content {
+        transform: translateX(0);
+        width: 100%;                
+    }
+    .dc-card{
+        box-shadow: none;
+    }
 }

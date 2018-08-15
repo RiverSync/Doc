@@ -9,6 +9,7 @@ author: RiverSync
 timezone: UTC
 
 # URL
+url: https://doc.riversync.com/
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 # root: /
 
@@ -23,14 +24,19 @@ theme: ../node_modules/hexo-theme-doc
 theme_config:
   favicon: images/favicon.ico
   google_analytics: UA-85727698-3
+  support:
+    link_url: mailto:support@riversync.com
 
 ignore:
   # development only: ignore sub node_modules when `npm link hexo-theme-doc`
-  - '**/node_modules/**/*node_modules'
+  - "**/node_modules/**/*node_modules"
 
 node_sass:
   includePaths:
-   - node_modules
+    - node_modules
 
 sitemap:
   path: sitemap.xml
+
+breadcrumb:
+  display: true
