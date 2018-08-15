@@ -6,7 +6,7 @@ updated: 2018/8/14 17:00
 
 > Self-contained, secured computing environment that includes all computing, memory, storage, networking. They are assembled and tested from the factory environment and shipping in a single enclosure that include all necessary [power](/general/power/index.html), [cooling](/general/cooling/index.html), [security](/general/security/index.html), and associated management tools.
 
-Micro Data Center are designed to minimize capital outlay, reduce footprint, [energy consumption](/general/power/concumption.html), and increase speed of deployment. Their size, versatility and plug-and-play features make them ideal for use in remote locations, for temporary deployments or even for use by business temporarily in locations that are in high-risk zones for floods or earthquakes.
+Micro Data Center are designed to minimize capital outlay, reduce footprint, [energy consumption](/general/power/consumption.html), and increase speed of deployment. Their size, versatility and plug-and-play features make them ideal for use in remote locations, for temporary deployments or even for use by business temporarily in locations that are in high-risk zones for floods or earthquakes.
 
 Micro data center are sprouting up on the edges of networks, whether in the factories, on container ships, and installed at cellular base stations. This is as enterprises and service providers look to embed compute and storage capacity closer to where data is being comsumed.
 
