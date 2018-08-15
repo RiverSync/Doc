@@ -8,6 +8,7 @@ author: RiverSync
 timezone: UTC
 
 # URL
+url: https://doc.riversync.com/
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 # root: /
 
@@ -35,7 +36,6 @@ node_sass:
 
 sitemap:
   path: sitemap.xml
-  template: ./sitemap_template.xml
 
 breadcrumb:
   display: true
