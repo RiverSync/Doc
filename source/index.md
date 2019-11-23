@@ -17,6 +17,7 @@ This our documentation database to help you explain our product and service work
 ### [Products](products/index.html)
 
 - [Frigo](products/frigo/index.html)
+- [Koelkast](products/koelkast/index.html)
 
 ### [Services](services/index.html)
 
