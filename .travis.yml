@@ -1,6 +1,6 @@
 language: node_js
 node_js:
-  - 6
+  - 12
 install:
   - npm install -g hexo
   - npm install -g firebase-tools
@@ -9,4 +9,3 @@ script:
   - hexo generate --deploy
 after_success:
   - firebase deploy --token $FIREBASE_TOKEN
-
