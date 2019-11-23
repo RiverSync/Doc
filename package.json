@@ -15,7 +15,6 @@
     "hexo": "^3.7.1",
     "hexo-breadcrumb": "^1.0.2",
     "hexo-browsersync": "^0.3.0",
-    "hexo-cli": "^1.1.0",
     "hexo-generator-sitemap": "^1.2.0",
     "hexo-pdf": "^1.1.1",
     "hexo-renderer-ejs": "^0.3.1",
@@ -25,5 +24,7 @@
     "hexo-server": "^0.3.2",
     "hexo-theme-doc": "^1.0.0-rc.1"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "hexo-cli": "^3.1.0"
+  }
 }
