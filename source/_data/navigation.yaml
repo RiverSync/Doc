@@ -31,6 +31,9 @@ main:
 - text: Frigo
   type: link
   path: products/frigo/index.html
+- text: Koelkast
+  type: link
+  path: products/koelkast/index.html
   
 - text: Services
   type: label
