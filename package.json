@@ -7,7 +7,7 @@
     "url": "git+https://github.com/RiverSync/Doc.git"
   },
   "hexo": {
-    "version": "3.7.1"
+    "version": "3.9.0"
   },
   "dependencies": {
     "dress-code": "^2.4.0",
@@ -23,8 +23,5 @@
     "hexo-renderer-sass": "^0.3.2",
     "hexo-server": "^0.3.2",
     "hexo-theme-doc": "^1.0.0-rc.1"
-  },
-  "devDependencies": {
-    "hexo-cli": "^3.1.0"
   }
 }
